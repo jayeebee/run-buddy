@@ -275,3 +275,8 @@ section {
   .contact-info a {
       color: #fce138;
   }
+
+  .footer-style div {
+      font-size: 20px;
+      color: #39a6b2;
+  }
