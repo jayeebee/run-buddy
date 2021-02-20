@@ -12,3 +12,5 @@ https://jayeebee.github.io/run-buddy/
 
 ## Contribution
 Made with ❤️ by [Jason]
+
+# Run Buddy Inc.
